@@ -22,6 +22,13 @@ module.exports = {
                 ]
             },
             {
+                title: 'Java',
+                sidebarDepth: 1,
+                children: [
+                    '/java/java读入优化'
+                ]
+            },
+            {
                 title: 'Test',
                 sidebarDepth: 1,
                 children: [
