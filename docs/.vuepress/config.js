@@ -1,11 +1,11 @@
 module.exports = {
     //set NODE_OPTIONS=--openssl-legacy-provider
     //export NODE_OPTIONS=--openssl-legacy-provider
-    base: '/Ablog',
+    base: '/Ablog/',
     title: "AAAAysy",
     themeConfig: {
         lastUpdated: '最近更新', // string | boolean
-        logo: '/assets/img/logo.png',
+        logo: 'assets/img/logo.png',
         nav: [
             {text: 'Home', link: '/'},
             {text: 'Github', link: 'https://github.com/AAAAAysy'},
