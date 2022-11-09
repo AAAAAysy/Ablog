@@ -1,4 +1,6 @@
-# 极致优化
+# Java 读入优化
+
+## 极致优化
 
 ~~~java
  private static class FastScanner {
@@ -79,7 +81,7 @@
 
 
 
-# 普通优化
+## 普通优化
 
 ~~~java
 static class InputReader {
@@ -131,7 +133,7 @@ static class InputReader {
     static PrintWriter out = new PrintWriter(System.out);
 ~~~
 
-# 注意
+### 注意
 
 ~~~java
 import java.io.*;
