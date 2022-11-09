@@ -1,7 +1,7 @@
 module.exports = {
     //set NODE_OPTIONS=--openssl-legacy-provider
     //export NODE_OPTIONS=--openssl-legacy-provider
-    base: '/',
+    base: '/Ablog',
     title: "AAAAysy",
     themeConfig: {
         lastUpdated: '最近更新', // string | boolean
