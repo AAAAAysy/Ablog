@@ -29,10 +29,10 @@ module.exports = {
                 ]
             },
             {
-                title: 'Test',
+                title: '网络安全',
                 sidebarDepth: 1,
                 children: [
-                    '/Test/test'
+                    '/wangan/网安'
                 ]
             }
         ],
